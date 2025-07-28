@@ -102,7 +102,3 @@ npm run dev
 | **Atharv Raut**    | Frontend Specialist  |
 
 ---
-
-## 📞 Support
-
-For support, email grpansare2002@gmail.com or create an issue in this repository.
